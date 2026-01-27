@@ -1,3 +1,4 @@
 # Coding Pirates Roskilde
 
-Se <https://codingpirates.dk/roskilde/>
+Alt materiale er flyttet til
+<https://github.com/cp-roskilde/kode>
